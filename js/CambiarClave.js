@@ -54,4 +54,4 @@
             } else {
                 alert('Por favor, llena ambos campos.');
             }
-        }
+        } //nuevo cambio :D
